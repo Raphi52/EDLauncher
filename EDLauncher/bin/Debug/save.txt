@@ -1,0 +1,16 @@
+Local Folder :
+\\NAS\Interne\ElectricalDesign\utilisateurs\raphael\prg\EDLauncher\E3source
+Server File 1:
+\\NAS\Interne\ElectricalDesign\utilisateurs\raphael\prg\EDLauncher\E3\vu_comp_20211216.mdb
+Server File 2:
+
+Server File 3:
+
+Server File 4:
+
+E3 Installation Folder :
+C:\CAO_soft\E3series_2018\E3.series.exe /cable /register
+Fast Launch :
+true
+Always Update :
+true

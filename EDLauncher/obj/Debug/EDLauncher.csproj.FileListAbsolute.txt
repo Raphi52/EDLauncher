@@ -1,0 +1,12 @@
+C:\DEV\EDLauncher\EDLauncher\bin\Debug\EDLauncher.exe.config
+C:\DEV\EDLauncher\EDLauncher\bin\Debug\EDLauncher.exe
+C:\DEV\EDLauncher\EDLauncher\bin\Debug\EDLauncher.pdb
+C:\DEV\EDLauncher\EDLauncher\obj\Debug\EDLauncher.csproj.AssemblyReference.cache
+C:\DEV\EDLauncher\EDLauncher\obj\Debug\EDLauncher.csproj.SuggestedBindingRedirects.cache
+C:\DEV\EDLauncher\EDLauncher\obj\Debug\EDLauncher.EDLauncher.resources
+C:\DEV\EDLauncher\EDLauncher\obj\Debug\EDLauncher.Properties.Resources.resources
+C:\DEV\EDLauncher\EDLauncher\obj\Debug\EDLauncher.csproj.GenerateResource.cache
+C:\DEV\EDLauncher\EDLauncher\obj\Debug\EDLauncher.csproj.CoreCompileInputs.cache
+C:\DEV\EDLauncher\EDLauncher\obj\Debug\EDLauncher.exe
+C:\DEV\EDLauncher\EDLauncher\obj\Debug\EDLauncher.pdb
+C:\DEV\EDLauncher\EDLauncher\obj\Debug\EDLauncher.Form2.resources
